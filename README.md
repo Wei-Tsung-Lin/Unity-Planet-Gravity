@@ -1,4 +1,4 @@
-# Planet-Gravity
+# Planet Gravity
 
   *  2D characters can be attached to the planet
 
